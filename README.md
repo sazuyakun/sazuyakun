@@ -2,7 +2,7 @@
 **`AI | Fullstack | Blockchain`** </br>
 - Turning Ideas into Scalable Realities — One word at a Time. I have a keen interest in pretty much anything that can be coded.</br>
 - Intern [@GEHealthCare](https://www.linkedin.com/company/gehealthcare/posts/?feedView=all)
-- 2x Hackathon Winner
+- 2x Hackathon Winner...
 
 
 ## Socials:
