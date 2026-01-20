@@ -1,5 +1,5 @@
 ## ۞ Hi, I'm Soham!
-**`AI | Fullstack | Blockchain`** </br>
+**`AI | Fullstack`** </br>
 - Turning Ideas into Scalable Realities — One word at a Time. I have a keen interest in pretty much anything that can be coded.</br>
 - Intern [@GEHealthCare](https://www.linkedin.com/company/gehealthcare/posts/?feedView=all)
 - 2x Hackathon Winner...
@@ -16,7 +16,6 @@
   <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img alt="Solidity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
   <img alt="Vercel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
   <img alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img alt="Express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
