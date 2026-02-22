@@ -13,7 +13,14 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
----
+## Projects
+
+- 📈 **[Sentgine](https://github.com/sazuyakun/goquant-asgn)** — Sentiment based stock engine.  
+- 💬 **[InstaRep](https://github.com/sazuyakun/Instagram-Replier)** — Auto-reply tooling for Instagram DMs.
+- 🛡️ **[Aegis](https://github.com/sazuyakun/Project-Aegis)** — Blockchain based UPI fallback mechanism for bank downtimes.
+- 🧩 **[Enigma](https://github.com/sazuyakun/Project-Enigma-2.0)** — Tracking drug traffickers on E2E encrypted platforms.  
+- 🧠 **[AresLM](https://github.com/sazuyakun/AresLM)** — Language-model experiments and infrastructure (GPT-2) 
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=sazuyakun&theme=dark&hide_border=false)
 
