@@ -1,7 +1,8 @@
 ## ۞ Hi, I'm Soham.
 
 > **`AI | Fullstack`** </br>
-> I make stuff that works and occasionally clean it up. Usually tinkering with automation, side projects, and whatever seems useful.
+> I make stuff that works (and occasionally clean it up).
+> Usually tinkering with automation, side projects, and whatever seems useful.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
