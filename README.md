@@ -16,7 +16,7 @@
 ## Projects
 
 - 🛡️ **[Aegis](https://github.com/sazuyakun/Project-Aegis)** — Blockchain based UPI fallback mechanism for bank downtimes.
-- - 🧩 **[Enigma](https://github.com/sazuyakun/Project-Enigma-2.0)** — Tracking drug traffickers on E2E encrypted platforms.
+- 🧩 **[Enigma](https://github.com/sazuyakun/Project-Enigma-2.0)** — Tracking drug traffickers on E2E encrypted platforms.
 - 🧠 **[AresLM](https://github.com/sazuyakun/AresLM)** — Language-model experiments and infrastructure (GPT-2)
 - 💬 **[InstaRep](https://github.com/sazuyakun/Instagram-Replier)** — Auto-reply tooling for Instagram DMs.
 - 📈 **[Sentgine](https://github.com/sazuyakun/goquant-asgn)** — Sentiment based stock engine.
