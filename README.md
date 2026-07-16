@@ -16,7 +16,7 @@
 
 ## Projects
 
-🔶 🎙️ **[Claude Call](https://github.com/sazuyakun/claude-call)** — Voice-triggered bridge for local AI coding sessions.
+- 🔶 🎙️ **[Claude Call](https://github.com/sazuyakun/claude-call)** — Voice-triggered bridge for local AI coding sessions.
 - 🛡️ **[Aegis](https://github.com/sazuyakun/Project-Aegis)** — Blockchain based UPI fallback mechanism for bank downtimes.
 - 💉 **[ChestVGG](https://github.com/sazuyakun/ChestVGG)** - Chest cancer MLOPs pipeline utilising fine-tuned VGG16.
 - 🧩 **[Enigma](https://github.com/sazuyakun/Project-Enigma-2.0)** — Tracking drug traffickers on E2E encrypted platforms.
@@ -24,6 +24,8 @@
 - 💬 **[InstaRep](https://github.com/sazuyakun/Instagram-Replier)** — Auto-reply tooling for Instagram DMs.
 - 📈 **[Sentgine](https://github.com/sazuyakun/goquant-asgn)** — Sentiment based stock engine.
 - 💊 **[Kenko](https://github.com/sazuyakun/Kenko)** - A multi-component platform for healthcare analysis.
+
+> 🔶 Refers to ongoing projects
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=sazuyakun&theme=dark&hide_border=false)
