@@ -16,6 +16,7 @@
 
 ## Projects
 
+- 🪙 🔶 **[Z Tools](https://github.com/sazuyakun/z-tools)** — Tiny tools, taken a little too far.
 - 📅 🔶 **[Dues](https://github.com/sazuyakun/dues)** — A private, local-first tracker for subscriptions and recurring payments.
 - 🛠️ 🔶 **[Chip 8](https://github.com/sazuyakun/chip-8)** - A CHIP-8 emulator that run old games
 - 🎙️ **[Claude Call](https://github.com/sazuyakun/claude-call)** — Voice-triggered bridge for local AI coding sessions.
