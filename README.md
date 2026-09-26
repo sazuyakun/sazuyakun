@@ -18,8 +18,8 @@
 
 - 🎮 🔶 **[Urosphere](https://github.com/sazuyakun/urosphere)** - A 3D exploration world using three.js
 - 🪙 🔶 **[Z Tools](https://github.com/sazuyakun/z-tools)** — Tiny tools, taken a little too far.
-- 📅 🔶 **[Dues](https://github.com/sazuyakun/dues)** — A private, local-first tracker for subscriptions and recurring payments.
 - 🛠️ 🔶 **[Chip 8](https://github.com/sazuyakun/chip-8)** - A CHIP-8 emulator that run old games
+- 📅 **[Dues](https://github.com/sazuyakun/dues)** — A private, local-first tracker for subscriptions and recurring payments.
 - 🎙️ **[Claude Call](https://github.com/sazuyakun/claude-call)** — Voice-triggered bridge for local AI coding sessions.
 - 🛡️ **[Aegis](https://github.com/sazuyakun/Project-Aegis)** — Blockchain based UPI fallback mechanism for bank downtimes.
 - 💉 **[ChestVGG](https://github.com/sazuyakun/ChestVGG)** - Chest cancer MLOPs pipeline utilising fine-tuned VGG16.
