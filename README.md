@@ -16,7 +16,7 @@
 
 ## Projects
 
-- 🎬 🔶 **[Shades](https://github.com/sazuyakun/shades)** — An open-source, AI-native video editor for Mac. Lightweight, Metal-fast, and fully drivable by Claude.
+- 🎬 🔶 **[Shades](https://github.com/sazuyakun/shades)** — AI-native video editor. Lightweight, Metal-fast, and fully drivable by Claude.
 - 🎮 🔶 **[Urosphere](https://github.com/sazuyakun/urosphere)** - A 3D exploration world using three.js
 - 🪙 🔶 **[Z Tools](https://github.com/sazuyakun/z-tools)** — Tiny tools, taken a little too far.
 - 🛠️ 🔶 **[Chip 8](https://github.com/sazuyakun/chip-8)** - A CHIP-8 emulator that run old games
