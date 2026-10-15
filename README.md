@@ -5,6 +5,7 @@
 > Usually tinkering with automation, side projects, and whatever seems useful.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -17,6 +18,7 @@
 ## Projects
 
 - 🎬 🔶 **[Shades](https://github.com/sazuyakun/shades)** — AI-native video editor. Lightweight, Metal-fast, and fully drivable by Claude.
+- 🔥 🔶 **[Ember](https://github.com/sazuyakun/ember)** — One flame. Keep it lit. A personal iOS fitness app with a food wheel and a one-life system.
 - 🎮 🔶 **[Urosphere](https://github.com/sazuyakun/urosphere)** - A 3D exploration world using three.js
 - 🪙 🔶 **[Z Tools](https://github.com/sazuyakun/z-tools)** — Tiny tools, taken a little too far.
 - 🛠️ 🔶 **[Chip 8](https://github.com/sazuyakun/chip-8)** - A CHIP-8 emulator that run old games
