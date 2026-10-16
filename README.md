@@ -17,18 +17,19 @@
 
 ## Projects
 
+- 🌌 🔶 **[Nebula](https://github.com/sazuyakun/nebula)** — Native macOS screen recorder and editor for polished product demos, with a built-in MCP server.
 - 🎬 🔶 **[Shades](https://github.com/sazuyakun/shades)** — AI-native video editor. Lightweight, Metal-fast, and fully drivable by Claude.
 - 🎮 🔶 **[Urosphere](https://github.com/sazuyakun/urosphere)** - A 3D exploration world using three.js
 - 🪙 🔶 **[Z Tools](https://github.com/sazuyakun/z-tools)** — Tiny tools, taken a little too far.
-- 🛠️ 🔶 **[Chip 8](https://github.com/sazuyakun/chip-8)** - A CHIP-8 emulator that run old games
 - 📅 **[Dues](https://github.com/sazuyakun/dues)** — A private, local-first tracker for subscriptions and recurring payments.
 - 🎙️ **[Claude Call](https://github.com/sazuyakun/claude-call)** — Voice-triggered bridge for local AI coding sessions.
-- 🛡️ **[Aegis](https://github.com/sazuyakun/Project-Aegis)** — Blockchain based UPI fallback mechanism for bank downtimes.
+- 🖱️ **[Hovr](https://github.com/sazuyakun/hovr)** — Your cursor, reimagined.
+- 🛡️ **[Aegis](https://github.com/sazuyakun/Aegis)** — Blockchain based UPI fallback mechanism for bank downtimes.
 - 💉 **[ChestVGG](https://github.com/sazuyakun/ChestVGG)** - Chest cancer MLOPs pipeline utilising fine-tuned VGG16.
-- 🧩 **[Enigma](https://github.com/sazuyakun/Project-Enigma-2.0)** — Tracking drug traffickers on E2E encrypted platforms.
+- 🧩 **[Enigma](https://github.com/sazuyakun/Enigma)** — Tracking drug traffickers on E2E encrypted platforms.
 - 🧠 **[AresLM](https://github.com/sazuyakun/AresLM)** — Language-model experiments and infrastructure (GPT-2).
-- 💬 **[InstaRep](https://github.com/sazuyakun/Instagram-Replier)** — Auto-reply tooling for Instagram DMs.
-- 📈 **[Sentgine](https://github.com/sazuyakun/goquant-asgn)** — Sentiment based stock engine.
+- 💬 **[InstaRep](https://github.com/sazuyakun/InstaRep)** — Auto-reply tooling for Instagram DMs.
+- 📈 **[Sentgine](https://github.com/sazuyakun/SentGine)** — Sentiment based stock engine.
 - 💊 **[Kenko](https://github.com/sazuyakun/Kenko)** - A multi-component platform for healthcare analysis.
 
 > 🔶 Refers to ongoing projects
@@ -37,4 +38,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sazuyakun&theme=dark&hide_border=false)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-samal)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sazuyakun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohamsamal37@gmail.com) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sazuyakun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohamsamal37@gmail.com)
