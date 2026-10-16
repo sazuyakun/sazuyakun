@@ -18,7 +18,6 @@
 ## Projects
 
 - 🎬 🔶 **[Shades](https://github.com/sazuyakun/shades)** — AI-native video editor. Lightweight, Metal-fast, and fully drivable by Claude.
-- 🔥 🔶 **[Ember](https://github.com/sazuyakun/ember)** — One flame. Keep it lit. A personal iOS fitness app with a food wheel and a one-life system.
 - 🎮 🔶 **[Urosphere](https://github.com/sazuyakun/urosphere)** - A 3D exploration world using three.js
 - 🪙 🔶 **[Z Tools](https://github.com/sazuyakun/z-tools)** — Tiny tools, taken a little too far.
 - 🛠️ 🔶 **[Chip 8](https://github.com/sazuyakun/chip-8)** - A CHIP-8 emulator that run old games
