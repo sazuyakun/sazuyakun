@@ -15,9 +15,12 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-## Projects
+## Maintaining
 
-- 🌌 🔶 **[Nebula](https://github.com/sazuyakun/nebula)** — Native macOS screen recorder and editor for polished product demos, with a built-in MCP server.
+- 🌌 **[Nebula](https://github.com/rune/nebula)** — Native macOS screen recorder and editor for polished product demos, with a built-in MCP server.
+
+## My Projects
+
 - 🎬 🔶 **[Shades](https://github.com/sazuyakun/shades)** — AI-native video editor. Lightweight, Metal-fast, and fully drivable by Claude.
 - 🎮 🔶 **[Urosphere](https://github.com/sazuyakun/urosphere)** - A 3D exploration world using three.js
 - 🪙 🔶 **[Z Tools](https://github.com/sazuyakun/z-tools)** — Tiny tools, taken a little too far.
